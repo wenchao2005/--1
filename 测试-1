@@ -1,0 +1,12 @@
+$ python3
+____________________________________________
+Python 3.8.0 (default, Oct 28 2019, 16:14:01) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 100 + 200      # 计算 100 + 200
+300                # 计算结果
+>>> 
+>>> print('Hello Python.')  # 输出 "Hello Python."
+Hello Python.				# 输出结果
+>>>
+>>> exit()                  # 退出终端，quit() 亦可
